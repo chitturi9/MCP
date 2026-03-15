@@ -10,7 +10,7 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "telnyx": "^2.3.0"
+    "telnyx": "^6.13.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.0"
